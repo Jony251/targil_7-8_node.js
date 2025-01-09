@@ -5,8 +5,6 @@
  כיתה 48-5
 */
 
-// for chacking:  http://localhost:3000/products?productPrice=700
-
 const express = require('express');
 const fs = require('fs');
 
